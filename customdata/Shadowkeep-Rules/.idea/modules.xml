@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ShadowHaven-Rules.iml" filepath="$PROJECT_DIR$/ShadowHaven-Rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShadowHaven-Rules.iml" filepath="$PROJECT_DIR$/Shadowkeep-Rules.iml" />
     </modules>
   </component>
 </project>
