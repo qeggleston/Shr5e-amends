@@ -51,7 +51,7 @@
   </component>
   <component name="RunManager" selected="Python.F-sequence">
     <configuration name="Day 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShadowHaven-Rules" />
+      <module name="Shadowkeep-Rules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -72,7 +72,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Day13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShadowHaven-Rules" />
+      <module name="Shadowkeep-Rules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -93,7 +93,7 @@
       <method v="2" />
     </configuration>
     <configuration name="F-sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShadowHaven-Rules" />
+      <module name="Shadowkeep-Rules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
